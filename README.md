@@ -9,13 +9,13 @@
 </p>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shustovsky/" target="_blank">
+  <a href="https://www.linkedin.com/in/shustovsky/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:a.shustovsky@gmail.com" target="_blank">
+  <a href="mailto:a.shustovsky@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
 </a>
-  <a href="https://t.me/Sachalll" target="_blank">
+  <a href="https://t.me/Sachalll">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
 </a>
 </div>
