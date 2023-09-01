@@ -19,7 +19,6 @@
 </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Shustovsky&style=flat-square&color=blue" alt="counter"/>
-
 </div>
 
 
