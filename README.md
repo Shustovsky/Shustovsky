@@ -21,7 +21,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shustovsky&style=flat-square&color=blue" alt="counter"/>
 </div>
 
-
 <!--
 **Shustovsky/Shustovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
