@@ -14,7 +14,7 @@
   <a href="mailto:a.shustovsky@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
 </a>
-  <a href="https://t.me/Sachalll">
+  <a href="https://t.me/Shust_JS">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
 </a>
 </div>
