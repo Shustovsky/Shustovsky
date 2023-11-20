@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
-<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd1NG14eTJlNjIyaXpnbDFwbG00eXg4d2NuZTdwbGlqYzJlNzA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUL5gdlvDgtRbOElZS/giphy.gif" width="150" />
+<h1>React</h1>
+<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamswcjhvNmliaTQ3eXEzdzZlbTNsbW83aWprMjZ0OXFhYWNscmJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="50" />
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shustovsky&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
